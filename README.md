@@ -1,1 +1,1 @@
-# dictionary-app
+# Dictionary App
